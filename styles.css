@@ -1,0 +1,172 @@
+
+
+h1 {
+   color: rgba(8, 8, 150, 0.719);
+   font-size: 50px;
+   margin-left: 550px;
+   
+ }
+
+/* p {
+    font-size: 25px;
+} */
+
+.address {
+    margin-left: 553px;
+    position: relative;
+    bottom: 30px;
+  }
+
+/* .city {
+    margin-left: 550px;
+} */
+
+.contact {
+    margin-left: 565px;
+    position: relative;
+    bottom: 40px;
+}
+
+.experience {
+    margin-left: 100px;
+    margin-right: 30px;
+}
+
+
+.ceo {
+    position: relative;
+    left: 65px;
+    }
+
+.inv {
+    position: relative;
+    left: 65px;
+}
+
+
+.inbro {
+    font-size: 25px;
+}
+
+.found {
+    font-size: 17px;
+}
+
+.bplus {
+    font-size: 25px;
+}
+
+.managed {
+    font-size: 17px;
+}
+
+.exdir {
+    position: relative;
+    left: 135px;
+}
+
+.bp {
+    position: relative;
+    left: 135px;
+}
+
+
+.bcontact {
+    font-size: 25px;
+}
+
+.supervised {
+    font-size: 17px;
+}
+
+.general {
+    position: relative;
+    left: 135px;
+}
+
+.bc {
+    position: relative;
+    left: 140px;
+}
+
+
+.acj {
+    font-size: 25px;
+}
+
+.organized {
+    font-size: 17px;
+}
+
+.vice {
+    position: relative;
+    left: 135px;
+}
+
+.afcj {
+    position: relative;
+    left: 135px;
+}
+
+.chamber {
+    font-size: 25px;
+}
+
+.worked {
+    font-size: 17px;
+}
+
+.translator {
+    position: relative;
+    left: 135px;
+}
+
+.ussr {
+    position: relative;
+    left: 139px;
+}
+
+.translations {
+    position: relative;
+    left: 400px;
+}
+
+.education {
+    font-size: 25px;
+}
+
+.bachelor {
+    position: relative;
+    left: 120px;
+}
+
+.egu {
+    position: relative;
+    left: 120px;
+}
+
+.proskills {
+    font-size: 17px;
+}
+
+.perskills {
+ font-size: 20px;
+}
+
+.languages {
+ font-size: 17px;
+}  
+
+.certificates {
+ font-size: 17px;  
+}
+
+h3 {
+    color: rgba(8, 8, 150, 0.719);
+    font-size: 30px;
+}
+
+
+hr {
+    border-style:solid;
+}
