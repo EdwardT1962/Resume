@@ -27,6 +27,13 @@ h1 {
     bottom: 40px;
 }
 
+.website {
+    margin-left: 625px;
+    position: relative;
+    bottom: 40px;
+    font-size: 20px; 
+}
+
 .experience {
     margin-left: 100px;
     margin-right: 30px;
